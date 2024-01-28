@@ -1,4 +1,4 @@
-Hey 👋 What's up?
+##Hey 👋 What's up?
 My name is Arian and im a student at Elvebakken High School, Oslo.
 
 About me
