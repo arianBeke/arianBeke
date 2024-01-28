@@ -4,7 +4,7 @@ My name is Arian and i am a student at Elvebakken High School, Oslo.
 
 ## About me
 
-🤓 Coding since 2022
+🤓 Coding since 2022.
 
 🎮 Hobbies: Gaming, Fitness, Fashion, Music.
 
