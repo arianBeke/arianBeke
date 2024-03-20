@@ -8,7 +8,7 @@ My name is Arian and i am a student at Elvebakken High School, Oslo.
 
 🎮 Hobbies: Gaming, Fitness, Fashion, Music.
 
-## Skills
+## Languages and Tools
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
