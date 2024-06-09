@@ -8,7 +8,7 @@ My name is Arian and i am a student at Elvebakken High School, Oslo.
 
 🎮 Hobbies: Gaming, Fitness, Fashion, Music.
 
-## About me
+## Music
 
 <img allign="right" src="https://spotify-github-profile.vercel.app/api/view?uid=lbeke&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
 
