@@ -1,6 +1,6 @@
 # Hello there!
 
-My name is Arian and i am a student at Elvebakken High School, Oslo.
+My name is Arian and I'm an apprentice at Comono AS working as an IT consultant in Oslo, Norway.
 
 ## About me
 
