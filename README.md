@@ -8,7 +8,7 @@ My name is Arian and I'm an apprentice at Comono AS working as an IT consultant 
 
 🎮 Hobbies: Gaming, Fitness, Fashion, Music.
 
-## What is listen to
+## What i listen to
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=lbeke&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=lbeke&redirect=true)
 
