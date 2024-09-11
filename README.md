@@ -1,6 +1,6 @@
 # Hello there!
 
-My name is Arian and I'm an apprentice at Comono AS working as an IT consultant in Oslo, Norway.
+My name is Arian and I'm an IT consultant at Comono AS in Oslo, Norway.
 
 ## About me
 
