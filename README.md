@@ -1,8 +1,4 @@
-My name is Arian and I'm an IT consultant at Comono AS in Oslo, Norway.
-
-## About me
-
-🎮 Hobbies: Gaming, Fitness, Fashion, Music.
+<p>My name is Arian and I'm an IT consultant at Comono AS in Oslo, Norway.</p>
 
 ## What i listen to
 
