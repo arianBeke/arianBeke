@@ -1,4 +1,4 @@
-<p> My name is Arian and I'm an IT consultant at Comono AS in Oslo, Norway. </p>
+<p> My name is Arian and I'm an IT consultant at Comono AS in Oslo, Norway 🇳🇴 </p>
 
 
 ## Languages and tools that i use
