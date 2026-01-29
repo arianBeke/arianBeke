@@ -4,7 +4,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=lbeke&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=lbeke&redirect=true)
 
-## Languages and Tools
+## Languages and tools that i use
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
