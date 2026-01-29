@@ -1,8 +1,5 @@
-<p>My name is Arian and I'm an IT consultant at Comono AS in Oslo, Norway.</p>
+<p> My name is Arian and I'm an IT consultant at Comono AS in Oslo, Norway. </p>
 
-## What i listen to
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=lbeke&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=lbeke&redirect=true)
 
 ## Languages and tools that i use
 
