@@ -1,5 +1,3 @@
-# Hi!
-
 My name is Arian and I'm an IT consultant at Comono AS in Oslo, Norway.
 
 ## About me
