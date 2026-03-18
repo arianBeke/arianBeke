@@ -20,8 +20,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="sql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
